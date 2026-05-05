@@ -1,0 +1,1380 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:26">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатель для Smart</category>
+    </categories>
+    <offers>
+      <offer id="60858925985670536515690966596746963972" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Контрактный двигатель M281.920 для Smart Fortwo 2015 W453. Оригинальный пробег 85 120 км. Проверен на работоспособность. Есть аукционный лист. Цена за двигатель в сборе</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="299656361299170548799716276585775852118" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Двигатель M281.920 от Smart Fortwo 2015 W453. Пробег 85 120 км. Работоспособность подтверждена. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="189148075890943721609630803405688640835" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Контрактный ДВС Smart Fortwo 2015 W453 M281.920. Пробег 85 120 км. Аукционный лист. Возможна проверка эндоскопом</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="212241967222191539413992263950480179307" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Двигатель M281.920 для Smart Fortwo 2015 W453. Оригинальный пробег 85 120 км. Проверен. Предоставим фото и видео работы</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="87552882832703085299041997602039494177" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Двигатель Smart Fortwo 2015 W453 M281.920. Пробег 85 120 км. В наличии. Возможна продажа без навесного. Полный пакет документов</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="87384613788556552963337433717845340031" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 узнать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <price>64999</price>
+        <oldprice>71498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_100.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_101.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_102.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/16/0008_16_103.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2015 W453 M281.920</model>
+        <description>Контрактный двигатель M281.920 для Smart Fortwo 2015 W453. Пробег 85 120 км. Рабочий. Есть аукционный лист и ГТД</description>
+        <sales_notes>Пробег 85 120 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W453</param>
+        <param name="Двигатель">M281.920</param>
+        <param name="Год">2015</param>
+        <param name="Номер по производителю">A2810105000</param>
+      </offer>
+      <offer id="106132244545632406548022203929859218722" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Оригинальный контрактный двигатель Smart Forfour W454 M135.930 с пробегом 141451 км. Проверен на работоспособность, есть аукционный лист. Цена указана за двигатель в сборе</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="56615797303799963487186730335790269177" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Двигатель Smart Forfour 2004 года, кузов W454, номер M135.930. Оригинальный пробег 141451 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="91726728737161274385558994613110230423" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Контрактный двигатель Smart Forfour W454 M135.930. Проверен, рабочий. В комплекте полный пакет документов: копия ГТД, договор купли-продажи. Возможна проверка эндоскопом</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="141031253137293853914788379935302355928" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Двигатель Smart Forfour 2004, M135.930, пробег 141451 км. Снят с автомобиля Smart Forfour 2004. Есть аукционный лист из Японии. Цена за двигатель в сборе</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="291114959792454371027269380697663624372" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Оригинальный двигатель Smart Forfour W454 M135.930. Пробег 141451 км. Проверен на работоспособность. Предоставляем документы для постановки на учёт. Возможна продажа</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="224732241404585812173680876847443663605" available="true" type="vendor.model">
+        <name>Двигатель Smart Forfour 2004 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <price>69999</price>
+        <oldprice>76998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_394.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_299.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Forfour 2004</model>
+        <description>Двигатель Smart Forfour 2004, кузов W454, M135.930. Оригинальный пробег 141451 км. Есть аукционный лист. Возможна проверка эндоскопом. Полный пакет документов</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W454</param>
+        <param name="Двигатель">M135.930</param>
+        <param name="Год">2004</param>
+        <param name="Номер по производителю">A1350100700</param>
+        <param name="Пробег">141451 км</param>
+      </offer>
+      <offer id="176583574131224212926419021134853566122" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Контрактный двигатель M160.922 для Smart ROADSTER W452 2003 года. Оригинальный пробег 108224 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="311276480861699822961651613871354589527" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Двигатель M160.922 от Smart ROADSTER 2003. Пробег 108224 км. Есть аукционный лист из Японии. Предоставляем полный пакет документов, включая ГТД и договор купли-продажи</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="91211375292114964310884445656731024679" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Оригинальный двигатель M160.922 для Smart ROADSTER W452. Пробег 108224 км. Проверен эндоскопом по запросу. Возможна продажа без навесного оборудования. Цена за двигатель</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="188074733884061726103988785302725974396" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Двигатель Smart ROADSTER 2003 M160.922. Пробег 108224 км. В наличии на складе в Москве. Предоставим подробные фото и видео работы. Документы для постановки на учёт</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="50797897331867580045622017614578217147" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Контрактный двигатель M160.922 для Smart ROADSTER 2003. Оригинальный пробег 108224 км. Проверен на работоспособность. Возможна проверка эндоскопом. Полный пакет документов</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="82825251799058346780426364555679013797" available="true" type="vendor.model">
+        <name>Двигатель Smart ROADSTER 2003 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <price>109999</price>
+        <oldprice>120998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_922.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/48/0010_48_002.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_923.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/47/0010_47_924.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Smart</vendor>
+        <model>ROADSTER 2003</model>
+        <description>Двигатель M160.922 от Smart ROADSTER 2003 года. Пробег 108224 км. Есть аукционный лист. Цена указана за двигатель в сборе. Возможна продажа без навесного. Документы</description>
+        <sales_notes>Цена за двигатель в сборе. Возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Smart</custom_label_3>
+        <param name="Кузов">W452</param>
+        <param name="Двигатель">M160.922</param>
+        <param name="Год">2003</param>
+        <param name="Номер по производителю">A1600103300</param>
+        <param name="Пробег">108224 км</param>
+      </offer>
+      <offer id="192078209340164409317901526124856429834" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Контрактный двигатель M132.930 от Smart Fortwo Brabus 2008 года. Оригинальный пробег 59 760 км, проверен на работоспособность. В комплекте с навесным оборудованием. Возможна</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="26688004059791601406013267887583090262" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Двигатель M132.930 с пробегом 59 760 км. Есть аукционный лист из Японии. Предоставляем полный пакет документов, включая ГТД и договор купли-продажи</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="195988829864832665041996191855499133901" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Двигатель в сборе для Smart Fortwo W451 2008 года. Дефект: сломано несколько катушек. Цена указана за двигатель как на фото. Возможна проверка эндоскопом по запросу</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="298256865355437794331175133002863069743" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Оригинальный двигатель M132.930 от Mercedes-Benz. Снят с автомобиля Smart Fortwo 2008. В наличии на складе в Москве. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="238341375173737168556210957810436195402" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Контрактный двигатель Smart Fortwo Brabus 2008 года. Пробег 59 760 км. Документы для постановки на учёт: копия ГТД и договор купли-продажи. Возможна продажа без навесного</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="16631365713623089733183385921458211128" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2008 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_028.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_089.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_029.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_030.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2008</model>
+        <description>Двигатель M132.930 для Smart Fortwo W451. Проверен на работоспособность. Есть аукционный лист. Дефект: сломано несколько катушек. Цена за двигатель в сборе</description>
+        <sales_notes>Цена за двигатель в сборе, возможна продажа</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2008</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="27573798256966354289982159408403654820" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Контрактный двигатель M132.930 с пробегом 52739 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Есть аукционный лист</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="68701272084487710540320200783042798868" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Оригинальный двигатель от Smart Fortwo BRABUS 2010 года. Пробег 52739 км. Возможна продажа без навесного. Предоставим видео работы</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="247729692389711677345352070272917241976" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель M132.930 в сборе. Снят с автомобиля Smart Fortwo BRABUS 2010. Проверен, есть аукционный лист. Цена указана за двигатель как на фото</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="329015737964581142977248781439421220066" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Контрактный двигатель с пробегом 52739 км. Подтверждающие документы: ГТД, ДКП. Возможна проверка эндоскопом по запросу</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="72275145057867979952208985737896090991" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель M132.930 от Smart Fortwo BRABUS 2010. Оригинальный пробег 52739 км. Дефект: сломано несколько катушек. Цена за двигатель в сборе</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="141567123752513742953947951826127616934" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_997.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_998.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_999.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/36/0011_36_000.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель в наличии на складе в Москве. Возможна продажа без навесного. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Пробег 52739 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="94137900609600902981501457917410263373" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Оригинальный контрактный двигатель M132.930 с пробегом 22 242 км. Проверен на работоспособность, есть аукционный лист. Цена за двигатель в сборе как на фото</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="328647041264332415009091345117578889957" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель M132.930 от Smart Fortwo BRABUS 2010 года. Пробег 22 242 км. Возможна продажа без навесного оборудования. Предоставим подробное фото и видео работы</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="327976390569185829413251775016956698128" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Контрактный двигатель M132.930 с аукционным листом. Проверен эндоскопом по запросу. Полный пакет документов: ГТД, договор купли-продажи</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="37886978628832489850979830415874801526" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель в сборе M132.930 для Smart Fortwo BRABUS 2010. Пробег 22 242 км. Дефект: сломано несколько катушек. Цена указана за двигатель в сборе</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="93651422211255239375130109602469408470" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Оригинальный двигатель M132.930 с пробегом 22 242 км. Есть аукционный лист, подтверждающий привоз из Японии. Возможна проверка эндоскопом</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="307159554196510070379300622839303292862" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo BRABUS 2010 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_393.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_336.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_337.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_338.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo BRABUS 2010</model>
+        <description>Двигатель M132.930 от Smart Fortwo BRABUS 2010 года. В наличии на складе в Москве. Предоставляем полный пакет документов для постановки на учёт</description>
+        <sales_notes>Пробег 22 242 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2010</param>
+        <param name="Номер по производителю">A1320100200</param>
+      </offer>
+      <offer id="143175290141922712126105234209602014396" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Контрактный двигатель M132.930 для Smart Fortwo W451 2011 года. Оригинальный пробег 95 143 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+      <offer id="49196332877835653847493606194895272484" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Двигатель M132.930 от Smart Fortwo Brabus. Пробег 95 143 км. Есть аукционный лист из Японии. Дефект: сломано несколько катушек. Цена за двигатель в сборе как на фото</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+      <offer id="319091119633228430931450737466673147185" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Контрактный двигатель Smart Fortwo W451 2011. Номер A1320102100. Проверен, рабочий. Предоставляем полный пакет документов, включая ГТД и ДКП</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+      <offer id="90800448732091952652616139042621261275" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Двигатель M132.930 для Smart Fortwo. Оригинальный пробег 95 143 км. Возможна проверка эндоскопом по запросу. Предоставим подробное фото и видео работы</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+      <offer id="173627075317379050633455069491857563855" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Двигатель Smart Fortwo 2011 W451. Контрактный, с аукционным листом. В наличии на складе в Москве. Цена 134 999 руб</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+      <offer id="307760999863191815464320491774874236000" available="true" type="vendor.model">
+        <name>Двигатель Smart Fortwo 2011 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_960.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_109.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_110.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_111.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Mercedes-Benz</vendor>
+        <model>Smart Fortwo 2011</model>
+        <description>Двигатель M132.930 от Smart Fortwo Brabus. Пробег 95 143 км. Документы для постановки на учёт. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Оригинальный пробег 95 143 км, аукционный лист</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Mercedes-Benz</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">W451</param>
+        <param name="Двигатель">M132.930</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">A1320102100</param>
+        <param name="Кросс-номера">A1320102700</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_60858925985670536515690966596746963972">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_299656361299170548799716276585775852118">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_189148075890943721609630803405688640835">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_212241967222191539413992263950480179307">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_87552882832703085299041997602039494177">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_87384613788556552963337433717845340031">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0e1fe0/</url>
+        <name>Двигатель Smart Fortwo 2015 W453 M281.920 узнать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W453, двс M281.920)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_448.jpg</picture>
+      </collection>
+      <collection id="col_106132244545632406548022203929859218722">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_56615797303799963487186730335790269177">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_91726728737161274385558994613110230423">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_141031253137293853914788379935302355928">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_291114959792454371027269380697663624372">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_224732241404585812173680876847443663605">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0fc/</url>
+        <name>Двигатель Smart Forfour 2004 узнать стоимость</name>
+        <description>Контрактная Двигатель Mercedes-Benz Forfour (кузов W454, двс M135.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_296.jpg</picture>
+      </collection>
+      <collection id="col_176583574131224212926419021134853566122">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 c доставкой</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_311276480861699822961651613871354589527">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 с гарантией</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_91211375292114964310884445656731024679">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 заказать</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_188074733884061726103988785302725974396">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 купить</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_50797897331867580045622017614578217147">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 по низкой цене</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_82825251799058346780426364555679013797">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dc406/</url>
+        <name>Двигатель Smart ROADSTER 2003 узнать стоимость</name>
+        <description>Контрактная Двигатель Smart ROADSTER (кузов W452, двс M160.922)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_392.jpg</picture>
+      </collection>
+      <collection id="col_192078209340164409317901526124856429834">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_26688004059791601406013267887583090262">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_195988829864832665041996191855499133901">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_298256865355437794331175133002863069743">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_238341375173737168556210957810436195402">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_16631365713623089733183385921458211128">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0db033/</url>
+        <name>Двигатель Smart Fortwo 2008 узнать стоимость</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/06/0011_06_852.jpg</picture>
+      </collection>
+      <collection id="col_27573798256966354289982159408403654820">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_68701272084487710540320200783042798868">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_247729692389711677345352070272917241976">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_329015737964581142977248781439421220066">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_72275145057867979952208985737896090991">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_141567123752513742953947951826127616934">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da33f/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 узнать стоимость</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/35/0011_35_996.jpg</picture>
+      </collection>
+      <collection id="col_94137900609600902981501457917410263373">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_328647041264332415009091345117578889957">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_327976390569185829413251775016956698128">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_37886978628832489850979830415874801526">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_93651422211255239375130109602469408470">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_307159554196510070379300622839303292862">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da0ff/</url>
+        <name>Двигатель Smart Fortwo BRABUS 2010 узнать стоимость</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/45/0011_45_335.jpg</picture>
+      </collection>
+      <collection id="col_143175290141922712126105234209602014396">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 c доставкой</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+      <collection id="col_49196332877835653847493606194895272484">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 с гарантией</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+      <collection id="col_319091119633228430931450737466673147185">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 заказать</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+      <collection id="col_90800448732091952652616139042621261275">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 купить</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+      <collection id="col_173627075317379050633455069491857563855">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 по низкой цене</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+      <collection id="col_307760999863191815464320491774874236000">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0da3b5/</url>
+        <name>Двигатель Smart Fortwo 2011 узнать стоимость</name>
+        <description>Контрактная Двигатель Mercedes-Benz Fortwo (кузов W451, двс M132.930)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/37/0011_37_108.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
